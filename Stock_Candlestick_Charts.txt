@@ -1,0 +1,7 @@
+With this application, a user can input any ticker symbol, select moving averages, choose to include RSI,
+and select a date range. The application will then display a candlestick chart with the selected moving averages,
+volume bar chart, and an RSI chart if selected.
+This code provides a checklist to select moving averages of 20, 50, 100, or 200 days.
+The user can select any combination of these, and the graph will display the selected moving averages.
+
+necessary Python packages (dash, yfinance, plotly, pandas, numpy)
